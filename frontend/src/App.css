@@ -1,0 +1,95 @@
+.text-header{
+  color: orange;
+}
+
+.color{
+  color: aqua;
+}
+
+.nav{
+  margin-top: 3px;
+  border-top: 3px solid black !important;
+  border-bottom: 1px solid #efebf7;
+}
+
+.heading{
+  margin-top: 50px;
+  margin-left: 300px;
+  font-weight: 1000;
+}
+
+.margin{
+  margin-left: 300px;
+  margin-top: 50px;
+}
+
+.text-muted{
+  font-size: small;
+  color: salmon;
+}
+
+.image{
+  width: 240px;
+  height: 160px;
+}
+
+.box{
+  margin-left: 20px;
+  width: 421.69px;
+}
+
+.event_name{
+  font-size: x-large;
+}
+.events{
+  padding-bottom: 40px;
+}
+
+.icon{
+  margin-top: 100px;
+  margin-left: 30px;
+  height: 30px;
+  width: 30px;
+}
+
+.achor{
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.form{
+  margin-top: 70px;
+  width: 500px;
+  margin-left: 300px;
+  border: 1px solid #efebf7;
+  padding: 20px;
+}
+
+
+.flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.border-box{
+  padding: 10px;
+  border: 1px solid #efebf7;
+  border-radius: 20px;
+  margin-left: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo{
+  color: white;
+  background-color: black;
+  border-radius: 100%;
+  margin-right: 10px;
+  margin-top: 5px;
+  width: 26px;
+  height: 26px;
+  text-align: center;
+  font-size: large;
+}
