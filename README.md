@@ -13,3 +13,13 @@
 ## Website Overview
 ![Screenshot (323)](https://user-images.githubusercontent.com/61514605/147381383-281ad18a-b70e-49f6-ab8b-0b13565420e3.png)
 ![Screenshot (324)](https://user-images.githubusercontent.com/61514605/147381380-c153508d-3dc3-4810-a11a-88963ff46546.png)
+
+## Event Serializer 
+![Screenshot (325)](https://user-images.githubusercontent.com/61514605/147381523-0e529148-c4d4-46dc-864c-eab7aa0597a9.png)
+
+
+## Steps To Run :
+
+### 1) cd backend && Run Django server on localhost:8000
+### 2) cd frontend && npm start to run react server on port 3000
+### 3) From Xampp run mysql on localhost using root user 
